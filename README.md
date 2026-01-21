@@ -1,6 +1,17 @@
 # 💫 About Me:
-👋 Salut, moi c’est Alexis Fokam<br><br>💻 Développeur Web & Mobile passionné par la création de solutions modernes, performantes et intuitives.<br><br>🚀 Stack principale :<br><br>    Backend : Laravel, MySQL<br><br>    Frontend Web : Vue.js, TailwindCSS<br><br>    Mobile : Flutter<br><br>    Cloud & Realtime : Firebase (Auth, Firestore, Storage, Notifications)<br><br>✨ J’aime transformer des idées en applications concrètes, alliant performance, design et expérience utilisateur.<br>📂 Sur ce GitHub, je partage mes projets, prototypes et contributions open-source.
+👋 Salut, moi c’est Alexis Fokam
 
+💻 Développeur Mobile & Data Scientist passionné par l'extraction de valeur à partir des données et la création d'applications performantes.
+
+🚀 Mes domaines d'expertise :
+
+    📊 Data Science : Analyse exploratoire (EDA), Machine Learning, Visualisation de données (Python, Pandas, Scikit-Learn)
+    📱 Mobile : Flutter (Dart)
+    ⚙️ Backend & API : Laravel (PHP), MySQL
+    🔥 Cloud & Realtime : Firebase (Auth, Firestore, Storage, Notifications)
+
+✨ Mon objectif est de combiner l'intelligence des données avec des solutions mobiles intuitives pour créer un impact réel.
+📂 Sur ce GitHub, je partage mes projets d'analyse, mes modèles de prédiction et mes prototypes mobiles.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexis-fokam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-fokam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@lendeurcoder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alexis-fok) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alexis-fokam) 
